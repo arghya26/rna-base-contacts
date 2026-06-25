@@ -1,6 +1,6 @@
 # rna-base-contacts
 
-A four-script pipeline to **find**, **score**, **rank**, and **plot** RNA base–base hydrogen-bond contacts in PDB structures, with a focus on selecting high-quality QM model candidates.
+A pipeline to **find**, **score**, **rank**, and **plot** RNA base–base hydrogen-bond contacts in PDB structures, with a focus on selecting high-quality QM model candidates.
 
 ---
 
